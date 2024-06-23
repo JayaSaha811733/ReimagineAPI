@@ -655,6 +655,76 @@
 
   "season": [
     {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894977/Collection/Color-Blocking/fp6ubozqgx30mkikflea.webp",
+      "index": 0,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894961/Collection/Color-Blocking/p5l6pkhyyehlxeqkltzf.webp",
+      "name": "Bacca Bucci Urban Retro Series 2.0",
+      "price": "2,199.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894899/Collection/Color-Blocking/mlhy1is3kjrckftbzmrt.webp",
+      "index": 1,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894839/Collection/Color-Blocking/q3sbx2v8oollykwsgaip.webp",
+      "name": "Bacca Bucci Urban Nomad",
+      "price": "2,299.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894754/Collection/Color-Blocking/rqwfjfzadcqtqytsq2tz.webp",
+      "index": 2,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894731/Collection/Color-Blocking/v4f8paqbe3pe583eyvcm.webp",
+      "name": "Bacca Bucci STUNNER Hi-top Streetwear Sneakers with 360 degree Cushioning",
+      "price": "1,799.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894703/Collection/Color-Blocking/hxxbuh5isawpbru26ijr.webp",
+      "index": 3,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894625/Collection/Color-Blocking/rr6pc2xaagoujulhdrna.webp",
+      "name": "Bacca Bucci Downtown Dynamo",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894525/Collection/Color-Blocking/y1ovndy1jqhlxe1wlmuv.webp",
+      "index": 4,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894505/Collection/Color-Blocking/cttkfly2nba0axncq7dm.webp",
+      "name": "Bacca Bucci MEGA FLEX Hi-Top Street Fashion Chunky Sneakers",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894418/Collection/Color-Blocking/rx3xbch0ozotpuzq8h2s.webp",
+      "index": 5,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894324/Collection/Color-Blocking/jgiu4lfdsehwqavo9ytj.webp",
+      "name": "Bacca Bucci Sylvia Chunky-Sole Men’s Sneakers - Ultra-Lightweight Casual Shoes",
+      "price": "1,999.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718894002/Collection/Color-Blocking/njszwbkbqywwymiqzcvj.webp",
+      "index": 6,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718893836/Collection/Color-Blocking/4%20Hover.webp",
+      "name": "Bacca Bucci TIGER Comfy Mid-Top Casual Chunky Streetwear Fashion Sneakers",
+      "price": "2,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718893568/Collection/Color-Blocking/3%20Hover.webp",
+      "index": 7,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718893489/Collection/Color-Blocking/3.webp",
+      "name": "Bacca Bucci Downtown Dynamo",
+      "price": "1,799.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718893047/Collection/Color-Blocking/2%20Hover.jpg",
+      "index": 8,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718893031/Collection/Color-Blocking/2.webp",
+      "name": "Bacca Bucci SKYLINE CHUNK Hi-Top Street Fashion Flat-Sole Sneakers",
+      "price": "1,399.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718891217/Collection/Color-Blocking/1%20Hover.webp",
+      "index": 9,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718890532/Collection/Color-Blocking/1.webp",
+      "name": "Bacca Bucci SKYLINE CHUNK Hi-Top Street Fashion Flat-Sole Sneakers",
+      "price": "1,499.00"
+    },
+    {
       "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896128/Collection/Running/luwvmajvwggfuxtsbljd.webp",
       "index": 0,
       "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896034/Collection/Running/wmipfog9xxdyvppesl11.webp",
@@ -726,136 +796,214 @@
     },
     {
       "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718897204/Collection/Riding-Boots/bsyllz33fze321uohqqa.webp",
-      "index": 10,
+      "index": 0,
       "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1719073679/Collection/Riding-Boots/mvgej8zgvp0sj5zeimuc.webp",
       "name": "Bacca Bucci DEODAR 6 inches Riding Boots for Mountaineering Backpacking Hiking & Trekking",
       "price": "1,899.00"
     },
     {
       "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718897182/Collection/Riding-Boots/nxdmtoocojyuodmfcpox.webp",
-      "index": 11,
+      "index": 1,
       "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896766/Collection/Riding-Boots/hsxf3ulj5phkvtipva7i.webp",
       "name": "Bacca Bucci DRAGON Splash-proof Leather Classic Fashion Boots for Biking Trekking & Hiking",
       "price": "1,299.00"
     },
     {
       "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718897155/Collection/Riding-Boots/v7vc18zwwqhfpujckqlm.webp",
-      "index": 12,
+      "index": 2,
       "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896758/Collection/Riding-Boots/aphqhjjrtj8h1nqtupuf.webp",
       "name": "Bacca Bucci FLAME 7-Eye Moto Inspired Mild Water Proof Snow Boots",
       "price": "2,299.00"
     },
     {
       "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718897147/Collection/Riding-Boots/ar00ebal9dcljjbf8nr5.webp",
-      "index": 13,
+      "index": 3,
       "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896748/Collection/Riding-Boots/dw4oghqj1cgxacrsb5xh.webp",
       "name": "Bacca Bucci WOLF Adaptive Smart Cushioning High-Top Boots for Hiking, Camping & Trekking",
       "price": "2,899.00"
     },
     {
       "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896941/Collection/Riding-Boots/ua0wtlrnzvlozbcxpft1.webp",
-      "index": 14,
+      "index": 4,
       "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896678/Collection/Riding-Boots/fvgzvxwkmettjebepgd5.jpg",
       "name": "Bacca Bucci MARSHAL Full Leather Chelsea Boot with padded ortholite footbed | Chelsea Boots for Men",
       "price": "2,499.00"
     },
     {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896938/Collection/Riding-Boots/xtptsp8ejwpe3gizfeni.webp",
-      "index": 15,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896669/Collection/Riding-Boots/ckpp8oubl7ock0bvyzlf.webp",
-      "name": "Bacca Bucci MOJAVE DESERT Mid Ankle Boots for Outdoor | Motorcycle Riding Boots | Tactical Combat & Military Boots for Men",
-      "price": "2,499.00"
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896938/Collection/Riding-Boots/hdneaicotnaop1cupbia.jpg",
+      "index": 5,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896664/Collection/Riding-Boots/zqojzgcggz5rgoapwahs.jpg",
+      "name": "Bacca Bucci TROOPER Motorcycle Work Combat Casual Dress Boot | Derby Boots for Men",
+      "price": "1,999.00"
     },
     {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896908/Collection/Riding-Boots/tjbltwlgygpehqqgc9wz.webp",
-      "index": 16,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896607/Collection/Riding-Boots/yajihyrqxg8ycy1vcqcs.webp",
-      "name": "Bacca Bucci DEODAR 6 inches Riding Boots for Mountaineering Backpacking Hiking & Trekking",
-      "price": "1,799.00"
-    },
-    {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896889/Collection/Riding-Boots/tsoxdk6yhrofiuyrfosl.webp",
-      "index": 17,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896591/Collection/Riding-Boots/fvhzhgxbamnd0rsljvnh.webp",
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896913/Collection/Riding-Boots/kk7txptf9ejwx8wqy3gc.jpg",
+      "index": 6,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896660/Collection/Riding-Boots/dc7wv2lgayottiapq8lb.webp",
       "name": "Bacca Bucci FLAME 7-Eye Moto Inspired Mild Water Proof Snow Boots",
-      "price": "2,299.00"
+      "price": "2,099.00"
     },
     {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896884/Collection/Riding-Boots/wfhcdy35kgiv9ynj9vli.webp",
-      "index": 18,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896536/Collection/Riding-Boots/dptbnreayelxoqwhw83j.webp",
-      "name": "Bacca Bucci MOJAVE DESERT Mid Ankle Boots for Outdoor | Motorcycle Riding Boots | Tactical Combat & Military Boots for Men",
-      "price": "2,599.00"
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896891/Collection/Riding-Boots/v2ebktpwv6lysligwuus.webp",
+      "index": 7,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896653/Collection/Riding-Boots/xfltebbsa9mirweaiv9f.webp",
+      "name": "Bacca Bucci BULLET Splash-proof Leather Classic Fashion Boots for Biking Trekking Backpacking and Hiking",
+      "price": "2,199.00"
     },
     {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896745/Collection/Riding-Boots/xgncgfcmfww5wrugzy2m.webp",
-      "index": 19,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896502/Collection/Riding-Boots/qmbnuu6icdfpsm8pkuv4.webp",
-      "name": "Bacca Bucci MARSHAL Full Leather Chelsea Boot with padded ortholite footbed | Chelsea Boots for Men",
-      "price": "2,499.00"
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896879/Collection/Riding-Boots/pdfyiimpsiscxylxxe13.webp",
+      "index": 8,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896400/Collection/Riding-Boots/i7rqsyc7odeoaf43tfwb.webp",
+      "name": "Bacca Bucci DRAGON Splash-proof Leather Classic Fashion Boots for Biking Trekking & Hiking",
+      "price": "2,399.00"
     },
     {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896739/Collection/Riding-Boots/ldlfc8qkpihw0g2ah7yo.webp",
-      "index": 20,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896469/Collection/Riding-Boots/tuyxjzsc9puxh4cfkkz3.webp",
-      "name": "Bacca Bucci WOLF Adaptive Smart Cushioning High-Top Boots for Hiking, Camping & Trekking",
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896834/Collection/Riding-Boots/yn58w3pxnrsauyywzdsf.webp",
+      "index": 9,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896391/Collection/Riding-Boots/bybgtwuhrhg8yjhc8dcq.webp",
+      "name": "Bacca Bucci FLAME 7-Eye Moto Inspired Mild Water Proof Snow Boots",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718900015/Collection/Everyday_shoe/quhdzgyaghu0zs8mnr45.webp",
+      "index": 0,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718898256/Collection/Everyday_shoe/yng8hsfknckssxvhuwpq.webp",
+      "name": "Bacca Bucci Men's ESSENTIAL Sports Shoes - Versatile for Walking, Running, and All Activities",
+      "price": "2,199.00",
+      "ratings": 46
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718900012/Collection/Everyday_shoe/syotqz031mkl9p57o1jk.webp",
+      "index": 1,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718900012/Collection/Everyday_shoe/syotqz031mkl9p57o1jk.webp",
+      "name": "Bacca Bucci HALO max Cushioned Running Training Fitness Workout Shoes",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718899938/Collection/Everyday_shoe/mdddv3v0aa39g21iota5.webp",
+      "index": 2,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718898233/Collection/Everyday_shoe/mtqnheuks7uny9tpu61s.webp",
+      "name": "Bacca Bucci INTENSITY with Breathable Engineered Fishnet Upper & TPU Rebounce Outsole Running Shoes",
+      "price": "1,199.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718899810/Collection/Everyday_shoe/bojyiseno1mi3a43wyzl.webp",
+      "index": 3,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718989812/Collection/Everyday_shoe/ttn7cgy21oznr8syq3so.webp",
+      "name": "Bacca Bucci Men's ESSENTIAL Sports Shoes - Versatile for Walking, Running, and All Activities",
       "price": "2,899.00"
     },
     {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896737/Collection/Riding-Boots/sqdz8lihzgtm30yb3bfu.webp",
-      "index": 21,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896449/Collection/Riding-Boots/ye0auyngsthefmwd0mjz.webp",
-      "name": "Bacca Bucci DRAGON Splash-proof Leather Classic Fashion Boots for Biking Trekking & Hiking",
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718899030/Collection/Everyday_shoe/jvlurhfkpbp70imdlnih.webp",
+      "index": 4,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718898151/Collection/Everyday_shoe/szsshbytaacr3jl6w6rr.webp",
+      "name": "Bacca Bucci JUMP Men's Shoes with Padded Insocks & Bounce Sole | Best Running Shoes for Men",
+      "price": "2,699.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718899028/Collection/Everyday_shoe/vttbabevptmho9ne5yhl.webp",
+      "index": 5,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718898137/Collection/Everyday_shoe/jbkvq41k5juq79gjzmyz.webp",
+      "name": "Bacca Bucci IRONMAN Running/Walking/Training Shoe",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718899010/Collection/Everyday_shoe/h0balpej64lliybrgaqi.webp",
+      "index": 6,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718898124/Collection/Everyday_shoe/dxb1mzxmhvsiyhgvnl91.webp",
+      "name": "Bacca Bucci Men's ESSENTIAL Sports Shoes - Versatile for Walking, Running, and All Activities",
+      "price": "2,399.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1719136034/Collection/Everyday_shoe/fhl5b4rxmwdjgg0fz2fx.webp",
+      "index": 7,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1719136053/Collection/Everyday_shoe/txemborvhuvwrsekkkwj.webp",
+      "name": "Bacca Bucci Men's Knitted Canvas VENICE Comfort/Air Flow Casual/Sneakers Shoes",
+      "price": "2,199.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718898983/Collection/Everyday_shoe/ug3jz32vy6s6hnk7e5oo.webp",
+      "index": 8,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718898111/Collection/Everyday_shoe/pxsint07g7fin6mduddc.webp",
+      "name": "Bacca Bucci IRONMAN Running/Walking/Training Shoe",
+      "price": "1,999.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718898108/Collection/Everyday_shoe/xmldzhif81veq3eh1ixm.webp",
+      "index": 9,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718990421/Collection/Everyday_shoe/lmtvq1q0ioxnmreknybm.webp",
+      "name": "Bacca Bucci PULSE Walking Slip-on Shoes With Max-Cushioned Padded Insoles",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718974176/Collection/Chuncky-soles/usydp2ir0tpkxfujwxqp.webp",
+      "index": 0,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973764/Collection/Chuncky-soles/bhokjz2gdagabvjeib9f.webp",
+      "name": "Bacca Bucci Ignite",
+      "price": "1,699.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718974173/Collection/Chuncky-soles/g2rg84olnm3pmgotg8gx.webp",
+      "index": 1,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973757/Collection/Chuncky-soles/cefrl0v45wt2xpzagg1v.webp",
+      "name": "Bacca Bucci Ignite",
+      "price": "1,799.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718974149/Collection/Chuncky-soles/gv4k2cdncofgqkop156s.webp",
+      "index": 2,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973739/Collection/Chuncky-soles/d5blpk29neil8j8j9u7a.webp",
+      "name": "Bacca Bucci Afterburn",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718974109/Collection/Chuncky-soles/qeuxmekqgp76kbhtqgy5.webp",
+      "index": 3,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973736/Collection/Chuncky-soles/kbmkdbupymqtkwolmaeu.webp",
+      "name": "Bacca Bucci ILLUSION High-Top Street Fashion Sneakers with Rubber Outsole",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718974088/Collection/Chuncky-soles/tmvg7expo25rydgatdbn.webp",
+      "index": 4,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973729/Collection/Chuncky-soles/xtenqbuzhcmztcuel0jn.webp",
+      "name": "Bacca Bucci Urban Retro Series",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718974070/Collection/Chuncky-soles/xsqobiq3evtqevwi0jeo.webp",
+      "index": 5,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973705/Collection/Chuncky-soles/f3koamzcrpxllbtq0hqu.webp",
+      "name": "Bacca Bucci Oomph",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718974029/Collection/Chuncky-soles/xaoliffz93cw0voyejit.webp",
+      "index": 6,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973702/Collection/Chuncky-soles/glgwm4bkenq9cjh4vh07.webp",
+      "name": "Bacca Bucci TITAN Mid-top Streetwear Sneakers",
+      "price": "1,699.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718974011/Collection/Chuncky-soles/m1wwhbshsujl5w8xuvgf.webp",
+      "index": 7,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973618/Collection/Chuncky-soles/flntunmudszot7rhgq90.webp",
+      "name": "Bacca Bucci Afterburn",
+      "price": "1,899.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973596/Collection/Chuncky-soles/mxkor2debsnweyyntp7d.webp",
+      "index": 8,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973998/Collection/Chuncky-soles/gqt2vp6f1rfrrmfgh8n8.webp",
+      "name": "Bacca Bucci KRAKEN Street-Style Air-Sole Solid Casual Sneakers",
+      "price": "1,879.00"
+    },
+    {
+      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973588/Collection/Chuncky-soles/dmxz4gppz0t7698utwrl.webp",
+      "index": 9,
+      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718973983/Collection/Chuncky-soles/rgojqt9w1fnahfzyvsrq.webp",
+      "name": "Bacca Bucci Afterburn",
       "price": "1,499.00"
-    },
-    {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896732/Collection/Riding-Boots/ojyvsn4xzx1oc3gyelml.webp",
-      "index": 22,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896408/Collection/Riding-Boots/owqpjewetd4hw5zup97k.webp",
-      "name": "Bacca Bucci Storm Chaser 7 Eye Waterproof Zipper & Lace Up Boots",
-      "price": "2,799.00"
-    },
-    {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896715/Collection/Riding-Boots/q0m2epinauzpmie7ffqy.webp",
-      "index": 23,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896381/Collection/Riding-Boots/ppozzdbfv5lkdflq8mn7.webp",
-      "name": "Bacca Bucci Storm Chaser 7 Eye Waterproof Zipper & Lace Up Boots",
-      "price": "2,799.00"
-    },
-    {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896697/Collection/Riding-Boots/ffbnzdhu2lcrxoflgjdn.webp",
-      "index": 24,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896344/Collection/Riding-Boots/hbveumovxaegpy9rk3mj.webp",
-      "name": "Bacca Bucci TREKON 6 inch Riding, Hiking & Trekking Boots",
-      "price": "1,899.00"
-    },
-    {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896661/Collection/Riding-Boots/hknopvz9ht5hy5sgoyja.webp",
-      "index": 25,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896330/Collection/Riding-Boots/zgkvsqjlqnfltbjnrm9a.webp",
-      "name": "Bacca Bucci TREKON 6 inch Riding, Hiking & Trekking Boots",
-      "price": "1,899.00"
-    },
-    {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896658/Collection/Riding-Boots/h0c2w0hgy5dahuxhbkln.webp",
-      "index": 26,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896317/Collection/Riding-Boots/kmlwf6lbhmoqak5ql5l0.webp",
-      "name": "Bacca Bucci ALPS Mid Ankle Synthetic Leather Riding Boots for Motorcycle | Tactical Boots for Hiking, Trekking & Hunting",
-      "price": "1,999.00"
-    },
-    {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896656/Collection/Riding-Boots/mwxtuxbyzpyfxzlzyzjb.webp",
-      "index": 27,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896304/Collection/Riding-Boots/d2loevrohhkch8yqesgh.webp",
-      "name": "Bacca Bucci ALPS Mid Ankle Synthetic Leather Riding Boots for Motorcycle | Tactical Boots for Hiking, Trekking & Hunting",
-      "price": "1,999.00"
-    },
-    {
-      "url": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896641/Collection/Riding-Boots/nxf4tybqotmwiarix8ix.webp",
-      "index": 28,
-      "hoverUrl": "https://res.cloudinary.com/dmy3abtya/image/upload/v1718896272/Collection/Riding-Boots/bpf9xkbla3duvg4mi9va.webp",
-      "name": "Bacca Bucci Urban Rider High Top Premium Leather Fashion Boots",
-      "price": "2,499.00"
     }
   ]
 }
