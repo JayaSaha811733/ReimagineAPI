@@ -15,12 +15,6 @@
       "bg": "#A6ECFA"
     },
     {
-      "name": "Boots",
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/vjhomnfxhrjpzfanofua.jpg",
-      "color": "#601406",
-      "bg": "#FAC9A6"
-    },
-    {
       "name": "Sneakers",
       "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/gfh8ovuv4e16xnxr2vys.jpg",
       "color": "#4E3505",
@@ -31,6 +25,18 @@
       "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520050/baccabucci/category/fxi7o812cdhn0sxfvd6i.jpg",
       "color": "#07734F",
       "bg": "#A6FADE"
+    },
+    {
+      "name": "Boots",
+      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/vjhomnfxhrjpzfanofua.jpg",
+      "color": "#601406",
+      "bg": "#FAC9A6"
+    },
+    {
+      "name": "Formals",
+      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520050/baccabucci/category/ahgmfqqqobozvmzyy5ax.jpg",
+      "color": "#000000",
+      "bg": "#89857D"
     },
     {
       "name": "T-Shirts",
@@ -45,12 +51,6 @@
       "bg": "#A6ECFA"
     },
     {
-      "name": "Formals",
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520050/baccabucci/category/ahgmfqqqobozvmzyy5ax.jpg",
-      "color": "#000000",
-      "bg": "#89857D"
-    },
-    {
       "name": "Loafers",
       "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520050/baccabucci/category/uckct0d47tp2gvfu5btp.jpg",
       "color": "#4E3505",
@@ -63,16 +63,16 @@
       "bg": "#96e3f4"
     },
     {
-      "name": "Big Kids",
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/ou8qi8rbsgebgntsmkpq.jpg",
-      "color": "#000000",
-      "bg": "#89857D"
-    },
-    {
       "name": "Women Shoes",
       "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/ulhqwsquniab9zhszpm7.jpg",
       "color": "#4E3505",
       "bg": "#FADDA6"
+    },
+    {
+      "name": "Flip Flops",
+      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/gsioo1pfwhpnwufmlucw.jpg",
+      "color": "#07734F",
+      "bg": "#A6FADE"
     },
     {
       "name": "Plus Size",
@@ -81,16 +81,16 @@
       "bg": "#FAC9A6"
     },
     {
+      "name": "Big Kids",
+      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/ou8qi8rbsgebgntsmkpq.jpg",
+      "color": "#000000",
+      "bg": "#89857D"
+    },
+    {
       "name": "Belts",
       "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/hy2vsvpfz7cux5bcphe3.jpg",
       "color": "#601406",
       "bg": "#F89481"
-    },
-    {
-      "name": "Wallets",
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/vil8q5dgbyxyroekf97j.jpg",
-      "color": "#4E3505",
-      "bg": "#D8BC83"
     },
     {
       "name": "Socks",
@@ -99,11 +99,13 @@
       "bg": "#A6ECFA"
     },
     {
-      "name": "Flip Flops",
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/gsioo1pfwhpnwufmlucw.jpg",
-      "color": "#07734F",
-      "bg": "#A6FADE"
+      "name": "Wallets",
+      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716520049/baccabucci/category/vil8q5dgbyxyroekf97j.jpg",
+      "color": "#4E3505",
+      "bg": "#D8BC83"
     }
+    
+    
   ],
 
   "bestsellers": [
