@@ -1,10 +1,10 @@
 {
   "discover": [
-    "https://res.cloudinary.com/dojcchveo/image/upload/v1719117836/baccabucci/discover/g41xzphviloejqhzvknh.jpg",
-    "https://res.cloudinary.com/dojcchveo/image/upload/v1719117836/baccabucci/discover/snnttpt033rxwk4w4ri4.jpg",
-    "https://res.cloudinary.com/dojcchveo/image/upload/v1719117836/baccabucci/discover/eh6kwpzdksjygzoqqe3c.jpg",
-    "https://res.cloudinary.com/dojcchveo/image/upload/v1719117837/baccabucci/discover/kw0cxogt4atlczhhrppb.jpg",
-    "https://res.cloudinary.com/dojcchveo/image/upload/v1719117837/baccabucci/discover/uywi34pthxcahq1qeyz7.jpg"
+    "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/discover/eh6kwpzdksjygzoqqe3c.jpg",
+    "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/discover/g41xzphviloejqhzvknh.jpg",
+    "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/discover/kw0cxogt4atlczhhrppb.jpg",
+    "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/discover/snnttpt033rxwk4w4ri4.jpg",
+    "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/discover/uywi34pthxcahq1qeyz7.jpg"
   ],
 
   "categories": [
