@@ -110,97 +110,97 @@
 
   "bestsellers": [
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716548136/baccabucci/bestsellers/fa6pg1kkgt1yvxi4uot9.jpg",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b1.png",
       "index": 0,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716548409/baccabucci/bestsellers/h8nkqxu7biavp2wc0ljr.webp",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b1-1.png",
       "name": "Bacca Bucci Urban Genesis 1.0 Sneakers: The Pinnacle of Street-Smart Elegance with Breathable Perforated Design",
       "price": "1,499.00",
       "ratings": 34
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716551517/baccabucci/bestsellers/rjtlxkkwb7zy6sdtpcvt.webp",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b2.png",
       "index": 1,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716550950/baccabucci/bestsellers/rqamnr7v4tt58i0d0a9z.webp",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b2-2.png",
       "name": "Bacca Bucci DOWNTOWN DYNAMO Low-Top Sneakers: A Symphony of Style with Flat Outsole and Vibrant Color Blocking",
       "price": "1,599.00",
       "ratings": 78
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716550607/baccabucci/bestsellers/u1brklkfjhsd1gsbpxkl.webp",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b3.png",
       "index": 2,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716550698/baccabucci/bestsellers/d8jmqoklvgabt18bmhtf.jpg",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b3-3.png",
       "name": "Bacca Bucci Femme High-Top Harmony Sneakers—Elegant Pastel Blue and Pink Women's Lace-Ups",
       "price": "1,499.00",
       "ratings": 54
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716550946/baccabucci/bestsellers/bdm5ouuybg0ghmdxxi8z.jpg",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b4.png",
       "index": 3,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716550959/baccabucci/bestsellers/ps009rzp8ud7cwqzes9o.webp",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b4-4.png",
       "name": "Bacca Bucci Stride Eclipse: Low-Top Flat-Sole Sneakers with Signature Thick Round Laces",
       "price": "1,599.00",
       "ratings": 38
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716553361/baccabucci/bestsellers/bvts4efzd2sagtmb37ny.webp",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b5.png",
       "index": 4,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716553547/baccabucci/bestsellers/qg4sjcucmwqlbqfyorxg.webp",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b5-5.png",
       "name": "Bacca Bucci SHARK Men’s Low-Top Sneakers – Lightweight Textile PU Mix with TPR Outsole",
       "price": "1,699.00",
       "ratings": 87
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716553406/baccabucci/bestsellers/riays77yybyyun3gsbxs.webp",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b6.png",
       "index": 5,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716553409/baccabucci/bestsellers/mc1zltrmwx8znlyfsxew.webp",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b6-6.png",
       "name": "Bacca Bucci HORIZON: Advanced Performance Athletic and Casual Shoes",
       "price": "1,699.00",
       "ratings": 96
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716553434/baccabucci/bestsellers/geb6syodu4z3ql8qlmhu.webp",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b7.png",
       "index": 6,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716553450/baccabucci/bestsellers/dt2qevleexnj6apjgd04.webp",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b7-7.png",
       "name": "Bacca Bucci HORIZON: Advanced Performance Athletic and Casual Shoes",
       "price": "1,699.00",
       "ratings": 45
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716553482/baccabucci/bestsellers/bradcbyx61bkvh2ty0lb.webp",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b8.png",
       "index": 7,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716553486/baccabucci/bestsellers/uehpyxxk164vef46e000.webp",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b8-8.png",
       "name": "Bacca Bucci HORIZON: Advanced Performance Athletic and Casual Shoes",
       "price": "1,699.00",
       "ratings": 31
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716626186/baccabucci/bestsellers/f7zzxhzm7u0vgsyxknxg.webp",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b9.png",
       "index": 8,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716626195/baccabucci/bestsellers/mtcftq6xm9azpl93qcj1.webp",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b9-9.png",
       "name": "Bacca Bucci FLUX PIONEERS - Premium Gradient Athleisure Sneakers with Dynamic Flex Sole for Urban Exploration",
       "price": "1,699.00",
       "ratings": 73
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716626255/baccabucci/bestsellers/szqnnvafhfzbysulsttl.webp",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b10.png",
       "index": 9,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716626310/baccabucci/bestsellers/zatfa29f3zydltf8y2pf.webp",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b10-10.png",
       "name": "Bacca Bucci Cappuccino Skystompers: Retro High-Top Charm with Modern Comfort Tech",
       "price": "1,699.00",
       "ratings": 90
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716626333/baccabucci/bestsellers/juhwrciisy2wesz19vah.webp",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b11.png",
       "index": 10,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716626358/baccabucci/bestsellers/u6zj0hlevjyibsjguroq.jpg",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b11-11.png",
       "name": "Bacca Bucci Metrolites: Urban Pulse Edition, the epitome of comfort meets street-style elegance",
       "price": "1,499.00",
       "ratings": 27
     },
     {
-      "url": "https://res.cloudinary.com/dojcchveo/image/upload/v1716626386/baccabucci/bestsellers/uqpe30wk6bnviwwpxovj.webp",
+      "url": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b12.png",
       "index": 11,
-      "hoverUrl": "https://res.cloudinary.com/dojcchveo/image/upload/v1716626390/baccabucci/bestsellers/bwmmkjtgbv2dytvjyg4i.webp",
+      "hoverUrl": "https://raw.githubusercontent.com/JayaSaha811733/ReimagineAPI/main/bestSeller/b12-12.png",
       "name": "Bacca Bucci NIGHT GLIDER: The Elite Sportsperson's Versatile Footwear",
       "price": "2,199.00",
       "ratings": 59
